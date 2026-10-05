@@ -1,0 +1,11 @@
+
+/* 3. DESKTOP (Triggered at 992px) */
+@media (min-width: 992px) {
+    body {
+        background-color: gold; /* Dramatic change */
+    }
+}
+>card display: flex; flex-direction: column; text-align: center;.
+>image pink.png 
+@media (min-width: 700px) {pink.png}.
+.card flex-direction: row; text-align: left;.
